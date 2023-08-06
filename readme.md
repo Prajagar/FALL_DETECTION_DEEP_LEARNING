@@ -74,8 +74,8 @@ To use this project, you need to set up a Python environment and install the req
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/fall-detection-cnn.git
-cd fall-detection-cnn
+git clone https://github.com/Prajagar/FALL_DETECTION_DEEP_LEARNING.git
+cd FALL_DETECTION_DEEP_LEARNING
 ```
 ## Dataset
 
